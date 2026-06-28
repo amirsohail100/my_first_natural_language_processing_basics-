@@ -82,3 +82,18 @@ _Where:_
 ---
 
 💡 \*This module serves as my foundational gateway into the world of Large Language Models (L
+
+### 🗣️Natural Language Processing Basics
+
+````markdown
+## 🚀 How to Run Locally
+
+Follow these text calculation guidelines to setup this baseline workspace pipeline:
+
+### 1. Clone and Enter the Repository
+
+```bash
+git clone [https://github.com/amirsohail100/my_first_natural_language_processing_basics-.git](https://github.com/amirsohail100/my_first_natural_language_processing_basics-.git)
+cd my_first_natural_language_processing_basics-
+```
+````
